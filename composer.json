@@ -1,0 +1,18 @@
+{
+    "name": "lemon/dev",
+    "type": "project",
+    "require": {
+        "firebase/php-jwt": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "PatheonApi\\Dev\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Capacity Dev",
+            "email": "capacitydev8@gmail.com"
+        }
+    ]
+}
